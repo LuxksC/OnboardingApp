@@ -14,9 +14,9 @@
 
 ## Preview
 
-<div align="center">
-  <img
-    src="https://github.com/LuxksC/OnboardingApp/assets/86199915/6109218e-163d-4601-afa6-f735583fa9ef"
-    alt="App Launch Screen"
-    style="width:15em;border-radius:5px;"/>
-</div>
+![Simulator Screen Recording - iPhone 14 Pro - 2023-07-05 at 15 05 48](https://github.com/LuxksC/OnboardingApp/assets/86199915/f0e1205f-bdaf-4b66-943d-9b2b3eff4ab3)
+
+
+## Runing the project
+
+To run the project in your Macbook you will simple need to clone the repository, open the ```Onboarding.xcodeproj``` with XCode and tap the run button on the top right or press ```CMD``` + ```R```
