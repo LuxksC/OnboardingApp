@@ -1,5 +1,7 @@
 # OnboardingApp
 
+Project created with the porpose of studying SwiftUI framework components.
+
 ## Objectives
 
 - [x] Implement an Onboarding logic, using the property wrapper @AppStorage. The Onboarding logic consists in making a View visible just in the first time the user access the application;
