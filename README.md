@@ -1,6 +1,6 @@
 # OnboardingApp
 
-Project created with the porpose of studying SwiftUI framework components.
+Project created with the purpose of studying SwiftUI framework components.
 
 ## Objectives
 
